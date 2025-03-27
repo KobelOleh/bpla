@@ -3,7 +3,7 @@ import FlightMap from "@/components/FlightMap.vue";
 </script>
 
 <template>
-  <div class="p-5">
+  <div>
     <FlightMap />
   </div>
 </template>
